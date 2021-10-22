@@ -1,2 +1,2 @@
-# sample-angular-electron
-Sample repo to reproduce issue with electron child window and angular route.
+# Issue related Ubuntu 21.04 wayland black screen
+Sample repo to reproduce Issue related Ubuntu 21.04 wayland black screen
