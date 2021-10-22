@@ -1,0 +1,17 @@
+{
+  "productName": "Demo Rep",
+  "directories": {
+    "app": "dist",
+    "output": "app-builds"
+  },
+  "win": {  
+    "target": ["nsis:x64","nsis:ia32"],   
+  },
+  "nsis": {
+    "allowElevation": true,
+    "allowToChangeInstallationDirectory": true,
+    "oneClick": false,
+    "perMachine": true,
+    "deleteAppDataOnUninstall": true,  
+  }
+}
